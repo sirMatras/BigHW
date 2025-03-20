@@ -1,0 +1,14 @@
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\bin\Debug\net8.0\BigHW.exe
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\bin\Debug\net8.0\BigHW.deps.json
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\bin\Debug\net8.0\BigHW.runtimeconfig.json
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\bin\Debug\net8.0\BigHW.dll
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\bin\Debug\net8.0\BigHW.pdb
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.AssemblyInfoInputs.cache
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.AssemblyInfo.cs
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.dll
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\refint\BigHW.dll
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.pdb
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\BigHW.genruntimeconfig.cache
+C:\Users\ADMIN\RiderProjects\BigHW\BigHW\obj\Debug\net8.0\ref\BigHW.dll
